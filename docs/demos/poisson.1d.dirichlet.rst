@@ -12,7 +12,7 @@ with the Dirichlet boundary conditions
 
 .. math:: u(-1)=0, \quad u(1)=0.
 
-The exact solution is :math:`u(x) = \sin(\pi x)`.
+The exact solution is :math:`u(x) = \sin(\pi x)` .
 
 Implementation
 --------------
